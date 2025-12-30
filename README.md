@@ -1,5 +1,3 @@
-# Brain-Tumour-Glioma-Classification
-Streamlit app deploying a hybrid classical-quantum AI for brain tumor detection. Combines ResNet18 with a 4-qubit quantum circuit (98.57% accuracy). Features batch processing of up to 10 MRI scans, real-time predictions with confidence scores, and clinical-grade interface for medical research.
 # 🧠 Brain Tumor Classification - Hybrid Classical-Quantum AI
 
 A practical implementation of a hybrid classical-quantum neural network for detecting glioma tumors in brain MRI scans. This web application combines traditional deep learning (ResNet18) with quantum computing to achieve state-of-the-art classification accuracy.
@@ -16,7 +14,7 @@ A practical implementation of a hybrid classical-quantum neural network for dete
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/brain-tumor-classifier.git
+git clone https://github.com/tk360/brain-tumor-classifier.git
 cd brain-tumor-classifier
 ```
 
@@ -54,14 +52,9 @@ The model implements a "dressed quantum" approach:
 
 ## 🔗 Links
 
-- [Research Paper] (Link to your thesis/publication)
-- [Live Demo] (Streamlit Cloud link if deployed)
 - [Dataset Information] (Link to dataset source)
 
-## 📄 License
-
-This project is available for academic and research purposes. See LICENSE file for details.
 
 ---
 
-*Built with PyTorch, PennyLane, and Streamlit • Part of MSc/PhD Research in Quantum Machine Learning*
+*Built with PyTorch, PennyLane, and Streamlit • Part of Research in Quantum Machine Learning*
