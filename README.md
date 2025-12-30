@@ -50,9 +50,9 @@ The model implements a "dressed quantum" approach:
 - **Medical Disclaimer**: Not for clinical diagnosis - always consult healthcare professionals
 - **Model Weights**: Available to verified researchers upon request
 
-## 🔗 Links
+## 🔗 Dataset Link
 
-- [Dataset Information] (Link to dataset source)
+- [Brain Tumor MRI Dataset] (https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset) from Kaggle, which contains MRI scans classified into four brain tumor types. For this research, we focused on glioma_tumor and no_tumor classes.
 
 
 ---
