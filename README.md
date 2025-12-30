@@ -14,7 +14,7 @@ A practical implementation of a hybrid classical-quantum neural network for dete
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/tk360/brain-tumor-classifier.git
+git clone https://github.com/tk309/brain-tumor-classifier.git
 cd brain-tumor-classifier
 ```
 
